@@ -3,7 +3,7 @@
 
 echo "mudando para a branch de produção\n"
 
-git checkout -B gh-pages
+git checkout gh-pages
 
 echo "Pegando o código da branch main"
 
