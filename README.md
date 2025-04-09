@@ -15,7 +15,7 @@ Antes de você começar, verifique se:
 * Você tem a arduino IDE.
 
 
-
+link da aplicação: https://jaderadriel.github.io/toxic-gas-monitoring/dist/#/reports
 
 ## Execute localmente
 
